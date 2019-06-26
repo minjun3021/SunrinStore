@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1098616153196",
+    "firebase_url": "https://sunrinstore-a2b9d.firebaseio.com",
+    "project_id": "sunrinstore-a2b9d",
+    "storage_bucket": "sunrinstore-a2b9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098616153196:android:9ed6152c96102042",
+        "android_client_info": {
+          "package_name": "com.kmj.sunrinstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098616153196-n25c3of100s5u1ueo1poc6tggfseoro9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kmj.sunrinstore",
+            "certificate_hash": "30f33afa0bf0f59d5ebdacdd550b918c496b2c8a"
+          }
+        },
+        {
+          "client_id": "1098616153196-cmrv6p07gbr8c3od8r825n04l44toirp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANoHsx8fRWsPfXldkj1TjmOTU4jKrxkVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098616153196-cmrv6p07gbr8c3od8r825n04l44toirp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
