@@ -53,6 +53,12 @@ public class MainActivity extends AppCompatActivity {
 
         changeBtn.setOnClickListener(changeBtnListener);
 
+        recyclerView.setNestedScrollingEnabled(false);
+        gridView.setNestedScrollingEnabled(false);
+        recyclerView.getRecycledViewPool().setMaxRecycledViews(R.layout.list_item,10);
+
+
+
 
 
     }

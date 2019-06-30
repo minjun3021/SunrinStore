@@ -65,6 +65,8 @@ public class Item_info extends AppCompatActivity {
 
         chatAdapter=new ChatAdapter(data);
         mRecyclerView.setAdapter(chatAdapter);
+
+
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
